@@ -28,4 +28,5 @@
         <script type='text/javascript'
             src='https://dsa--uat.sandbox.my.site.com/ESWDSAMessaging1721207835894/assets/js/bootstrap.min.js'
             onload='initEmbeddedMessaging()'></script>
+</body>
 </html>
